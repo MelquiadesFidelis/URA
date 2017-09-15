@@ -48,7 +48,10 @@ As atividades deste projeto estarão organizadas em oficinas temática com o obj
 * 19/08/2017 - OBR - ETAPA REGIONAL / RN
 
 ### Slide de Aulas e conteúdo extra
-[Acesse aqui.](Slides%20de%20aula)
+
+* [Projeto TechSempZ](http://tech-sempz.blogspot.com.br/)
+* [Aulas C++/Javascript/Arduino - Listas de Exercicios](http://tech-sempz.blogspot.com.br/)
+* [Outras Aulas](Slides%20de%20aula)
 
 ## Referências e Links
 
